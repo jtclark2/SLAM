@@ -1,0 +1,34 @@
+./1. Robot Moving and Sensing.html
+./1. Robot Moving and Sensing.ipynb
+./2. Omega and Xi, Constraints.html
+./2. Omega and Xi, Constraints.ipynb
+./3. Landmark Detection and Tracking.html
+./3. Landmark Detection and Tracking.ipynb
+./4. Zip Your Project Files and Submit.html
+./4. Zip Your Project Files and Submit.ipynb
+./filelist.txt
+./full_file_list.txt
+./helpers.py
+./project3.zip
+./robot_class.py
+./Zip_All_Files.html
+./Zip_All_Files.ipynb
+./images/constraints2D.png
+./images/download_ex.png
+./images/initial_constraints.png
+./images/motion_constraint.png
+./images/omega_xi_constraints.png
+./images/omega_xi.png
+./images/robot_world.png
+./images/solution.png
+./__pycache__/helpers.cpython-36.pyc
+./__pycache__/robot_class.cpython-36.pyc
+./.ipynb_checkpoints/1. Robot Moving and Sensing-checkpoint.ipynb
+./.ipynb_checkpoints/1. Robot Moving and Sensing-zh-checkpoint.ipynb
+./.ipynb_checkpoints/2. Omega and Xi, Constraints-checkpoint.ipynb
+./.ipynb_checkpoints/2. Omega and Xi, Constraints-zh-checkpoint.ipynb
+./.ipynb_checkpoints/3. Landmark Detection and Tracking-checkpoint.ipynb
+./.ipynb_checkpoints/3. Landmark Detection and Tracking-zh-checkpoint.ipynb
+./.ipynb_checkpoints/4. Zip Your Project Files and Submit-checkpoint.ipynb
+./.ipynb_checkpoints/4_Zip Your Project Files and Submit-zh-checkpoint.ipynb
+./.ipynb_checkpoints/Zip_All_Files-checkpoint.ipynb
